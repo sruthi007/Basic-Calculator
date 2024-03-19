@@ -1,4 +1,5 @@
 import pytest
+from app import Calculator
 
 @pytest.fixture
 def calculator():
